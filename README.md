@@ -2,6 +2,8 @@
 
 > A simple, hackable & minimalistic starter for Gridsome that uses the [Ghost Content API](https://ghost.org/docs/api/v3/content/) for content.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/princyraza/gridsome-ghost-starter)
+
 ## Features
 
 - Beautiful and simple design.
