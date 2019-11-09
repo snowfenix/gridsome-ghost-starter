@@ -1,6 +1,6 @@
-# Gridsome Blog Starter
+# Gridsome Ghost Starter
 
-> A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+> A simple, hackable & minimalistic starter for Gridsome that uses the [Ghost Content API](https://ghost.org/docs/api/v3/content/) for content.
 
 ## Features
 
