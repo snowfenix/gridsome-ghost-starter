@@ -2,8 +2,6 @@
 
 > A simple, hackable & minimalistic starter for Gridsome that uses the [Ghost Content API](https://ghost.org/docs/api/v3/content/) for content.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/princyraza/gridsome-ghost-starter)
-
 ## Features
 
 - Beautiful and simple design.
@@ -12,8 +10,6 @@
 - Dark / Light toggle.
 - CSS variables, SCSS & BEM for styling.
 - 100, 100, 100, 100 score on Google Lighthouse.
-
-## Demo URL
 
 ## Install
 
@@ -30,6 +26,5 @@
 
 ## TODO
 
-- [ ] Add demo URL
 - [ ] Fix css when displaying youtube iframe on mobile devices
 - [ ] Change repo url in 2. Install this starter
