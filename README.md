@@ -28,6 +28,6 @@
 
 ## TODO
 
-[] Add demo URL
-[] Fix css when displaying youtube iframe on mobile devices
-[] Change repo url in 2. Install this starter
+- [ ] Add demo URL
+- [ ] Fix css when displaying youtube iframe on mobile devices
+- [ ] Change repo url in 2. Install this starter
